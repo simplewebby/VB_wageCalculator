@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{ECADE183-7E1B-4236-9F56-98646B59ECDB}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Wage_220Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
